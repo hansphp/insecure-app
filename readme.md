@@ -9,8 +9,8 @@ Intentionally insecure platform based on a demo application to illustrate how In
 Clone the repo locally:
 
 ```sh
-git clone https://github.com/inertiajs/pingcrm.git pingcrm
-cd pingcrm
+https://github.com/hansphp/pingcrm-IntentionallyInsecure.git insecure-app
+cd insecure-app
 ```
 
 Install PHP dependencies:
