@@ -9,7 +9,7 @@ Intentionally insecure platform based on a demo application to illustrate how In
 Clone the repo locally:
 
 ```sh
-https://github.com/hansphp/pingcrm-IntentionallyInsecure.git insecure-app
+https://github.com/hansphp/insecure-app.git insecure-app
 cd insecure-app
 ```
 
